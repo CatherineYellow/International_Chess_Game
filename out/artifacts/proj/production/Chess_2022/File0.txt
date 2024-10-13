@@ -1,0 +1,10 @@
+RNBQKBNR
+PPPPPPPP
+________
+________
+________
+________
+pppppppp
+rnbkqbnr
+White
+0
